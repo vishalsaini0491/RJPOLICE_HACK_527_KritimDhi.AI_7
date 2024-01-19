@@ -5,7 +5,7 @@ Our these two prototypes basically have this following functionality for now:
 
 **Note:** 
 
-1. We weren't to upload our dataset and Dashboard for data analysis due size constraint present on github. So we are uploading the drive's link on github. Please refer to the link given below. This link contains dataset, video of working of two prototypes we have developed and our Power BI dashboard which we embedded in the web app.
+1. We weren't to upload our dataset and Dashboard for data analysis due size constraint present on github. So we are uploading in our google drive. Please refer to the link given below. This link contains dataset, video of working of two prototypes we have developed and our Power BI dashboard which we embedded in the web app.
  ---------------->  https://drive.google.com/drive/folders/1weZbcsgeO7kylucyNlbhYNVNASP_7ldp?usp=sharing
    
 2. We have deployed this ML model for prototype stage locally using streamlit library of python which is an open source library for creating quick web applications and also for deployig ML model locally.

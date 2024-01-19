@@ -1,6 +1,9 @@
 Our these two prototypes basically have this following functionality for now:
+
      I. Real Time Transaction Monitoring ( Bank Server Level Only )
+     
     II. Updating cyber police in real time on their dashboard as the fraud happens, that data they can use for quickly setup an investigation for that fraud.
+    
    III. In second prototype we have also embedded an dashboard which cyber police can use to analyze the whole data set of various kind of transactions. 
 
 **Note:** 
